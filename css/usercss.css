@@ -1,0 +1,176 @@
+#head{
+    color: rgb(107, 231, 125);
+    border-radius: 4px;
+}
+
+#cell1{
+    border-radius: 4px;
+}
+
+#img1{
+    background-image: url("../assets/img/prioner1.jpg");
+    border-radius: 4px;
+}
+
+#cell131{
+    border-radius: 4px;
+}
+
+#cell41{
+    border-radius: 4px;
+}
+
+#img2{
+    background-image: url("../assets/img/24c976c415c3b90f4fd40249dfa2dddf.jpg");
+    border-radius: 4px;
+}
+
+#cell42{
+    border-radius: 4px;
+}
+
+#img3{
+    background-image: url("../assets/img/HT6yyUaSWLs.jpg");
+    border-radius: 4px;
+}
+
+#subTitle{
+    text-align: center;
+    color: rgb(191, 158, 128);
+    font-size: 1.1em;
+    margin: 0.5em 0px 0px;
+    font-family: Hind-Light;
+}
+
+#h32{
+    font-size: 1.3em;
+    line-height: 1.25em;
+    letter-spacing: 0.0001em;
+    font-family: Hind-Light;
+    color: rgb(191, 158, 128);
+}
+
+#h33{
+    font-family: Hind-Light;
+    color: rgb(191, 158, 128);
+}
+
+#h34{
+    margin: 0.5em 0px 0px;
+    font-family: Hind-Light;
+    color: rgb(191, 158, 128);
+}
+
+#h35{
+    margin: 0.5em 0px 0px;
+    font-family: Hind-Light;
+    color: rgb(191, 158, 128);
+}
+
+#mainTitle{
+    color: rgb(192, 192, 192);
+    font-family: BLKCHCRY;
+    font-size: 2em;
+}
+
+#h41{
+    color: rgb(154, 154, 154);
+    font-size: 1em;
+    font-family: Hind-Light;
+    border-radius: 4px;
+}
+
+#p1{
+    color: rgb(193, 193, 193);
+    font-size: 1em;
+    line-height: 1.3em;
+    font-family: Hind-Light;
+    font-weight: 100;
+    font-style: italic;
+}
+
+#p2{
+    color: rgb(193, 193, 193);
+    font-size: 1em;
+    line-height: 1.3em;
+    font-family: Hind-Light;
+    font-weight: 100;
+    font-style: normal;
+}
+
+#p3{
+    color: rgb(193, 193, 193);
+    font-size: 1em;
+    line-height: 1.3em;
+    font-family: Hind-Light;
+    font-weight: 100;
+    font-style: normal;
+}
+
+#h42{
+    color: rgb(154, 154, 154);
+    font-size: 1em;
+    font-family: Hind-Light;
+    border-radius: 4px;
+}
+
+#p4{
+    color: rgb(193, 193, 193);
+    font-size: 1em;
+    line-height: 1.3em;
+    font-family: Hind-Light;
+    font-weight: 100;
+    font-style: normal;
+}
+
+#p5{
+    color: rgb(193, 193, 193);
+    font-size: 1em;
+    line-height: 1.3em;
+    margin: 0.5em 0px 0px;
+    font-family: Hind-Light;
+    font-weight: 100;
+    font-style: normal;
+}
+
+#p6{
+    color: rgb(193, 193, 193);
+    font-size: 1em;
+    line-height: 1.3em;
+    font-family: Hind-Light;
+    font-weight: 100;
+    font-style: normal;
+}
+
+#p7{
+    color: rgb(193, 193, 193);
+    font-size: 1em;
+    line-height: 1.3em;
+    font-family: Hind-Light;
+    font-weight: 100;
+    font-style: normal;
+}
+
+#p8{
+    color: rgb(193, 193, 193);
+    font-size: 1em;
+    line-height: 1.3em;
+    font-family: Hind-Light;
+    font-weight: 100;
+    font-style: normal;
+}
+
+#h44{
+    font-family: Hind-Light;
+    color: rgb(193, 193, 193);
+}
+
+#p9{
+    color: rgb(193, 193, 193);
+    font-size: 1em;
+    line-height: 1.3em;
+    font-family: Hind-Light;
+    font-weight: 100;
+    font-style: normal;
+}
+
