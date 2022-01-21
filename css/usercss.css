@@ -74,7 +74,7 @@
 }
 
 #mainTitle{
-    color: rgb(192, 192, 192);
+    color: rgb(178, 178, 178);
     font-family: Friday13v12;
     font-size: 3em;
     letter-spacing: 0.009em;
@@ -82,6 +82,7 @@
 
 #mainTitleMob{
     font-family: Friday13v12;
+    color: rgb(178, 178, 178);
 }
 
 #h41{
