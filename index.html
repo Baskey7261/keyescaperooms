@@ -1,181 +1,118 @@
-<htm>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="css/default_fonts.css" />
+<link rel="stylesheet" href="css/main.css">
+<link rel="stylesheet" href="css/all_fonts.css">
+<link rel="stylesheet" href="css/usercss.css">
+<link rel="stylesheet" href="css/custom_fonts.css">
+<link rel="stylesheet" media="(max-width:530px)" href="css/mobile.css">
+<script src="js/jquery.js"></script>
+<script src="js/serverside.js"></script>
+<title>Key Escape Rooms</title>
+</head>
+<body>
+<div class="bodyCover"></div>
+<nav>
 
-    <html lang="en">
-
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="css/default_fonts.css" />
-        <link rel="stylesheet" href="css/main.css">
-        <link rel="stylesheet" href="css/all_fonts.css">
-        <link rel="stylesheet" href="css/usercss.css">
-        <link rel="stylesheet" href="css/custom_fonts.css">
-        <script src="js/jquery.js"></script>
-        <script src="js/serverside.js"></script>
-        <title>Flexbox</title>
-    </head>
-
-    <body>
-
-
-        <div class="bodyCover"></div>
-        <nav>
-            <div>logo</div>
-            <div>HOME</div>
-            <div>ABOUT</div>
-            <div>CONTACT</div>
-        </nav>
-
-        <header id="head" class="head img flexy textBllock" data-group="image">
-            <label for="getHeadPic1" class="imgSelector icon camera"></label>
-            <input id="getHeadPic1" type="file" style="display:none" onchange="changePic(this,'head')">
-            <div class="socLinks">
-                <div class="fb"></div>
-                <div class="tw"></div>
-                <div class="ins"></div>
-            </div>
-            <div class="headBlock">
-                <!-- <p class="pageSubSubTitle">THERE'S NO TURNING BACK NOW</p> -->
-                <h1 id="mainTitle" class="pageTitle textBlock"><span class="thin">KEY</span>ESCAPE ROOMS</h1>
-                <h3 data-group="sub" id="subTitle" class="tagline textBlock">Welcome, we've been expecting you.</h3>
-            </div>
-        </header>
-
-        <div class="title">
+        <div>logo</div>
+        <!-- <div>HOME</div> -->
+        <div>ABOUT</div>
+        <div>CONTACT</div>
+    </nav>
+<header class="head img flexy textBlock" data-group="image">
+"
+        <label for="getHeadPic1" class="imgSelector icon camera"></label>
+        <input id="getHeadPic1" type="file" style="display:none" onchange="changePic(this,'head')">
+        <div class="socLinks">
+            <div class="fb"></div>
+            <div class="tw"></div>
+            <div class="ins"></div>
         </div>
-        <div id="wrapper">
-            <!-- <h3 class="bodyTitle">Welcome, we've been expecting you.</h3> -->
-            <div class="container">
-                <div id="cell1" class="cell1 flexy">
-                    <!-- <span class="cell1text"> -->
-                    <p data-group="subSub" id="h41" class="subSub textBlock">He who dares..</p>
-                    <h3 data-group="sub" id="h32" class="sub textBlock">Have you got what it takes?</h3>
-                    <p data-group="para" id="p1" class="para textBlock"></p>
-                    <!-- <em id="em1" class="em textBlock">
-                                    Lorem ipsum dolor sit amet conse. adipisicing elit.
-                                    Except ectetur adipiing elit.
-                    </em> -->
+        <div class="headBlock">
+            <h1 id="mainTitle" class="pageTitle textBlock desk"  contenteditable="true">KEY&nbsp; ESCAPE ROOMS<br></h1>
+            <h1 id="mainTitleMob" class="pageTitle textBlock mob"  contenteditable="true">KEY<br>ESCAPE ROOMS</h1>
+            <h3 data-group="sub" id="subTitle" class="tagline textBlock"  contenteditable="true">Have you got what it takes?<br></h3>
+        </div>
+    </header>
 
-                    <p data-group="para" id="p2" class="para textBlock">
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur.
-                    </p>
-                    <!-- </span> -->
-                </div>
+        <div class="container">
+            <div id="cell1" class="cell1 flexy desk">
+                <p data-group="subSub" id="h41" class="subSub textBlock">He who dares..</p>
+                <h3 data-group="sub" id="h32" class="sub textBlock">Coming soon?</h3>
+                <p data-group="para" id="p1" class="em textBlock">xxx</p>
 
-                <div id="img1" data-group="image" class="flexy cell2 img pic1 textBlock">
-                    <label for="getPic1" class="imgSelector icon camera"></label>
-                    <input id="getPic1" type="file" style="display:none" onchange="changePic(this,'pic1')">
-                </div>
+                <p data-group="para" id="p2" class="para textBlock">Adipisicing elit quaerat dolore laudant tempora sint labore sapeos dolor nulla conseq.</p>
+            </div>
+            <h3 id="mh31" class="sub textBlock mob">Will you dare to enter?</h3>
+            <p id="mp1" class="para textBlock mob">Elshut upsum and sit, amet the consectetur go await. to monsectetur in summer.</p>
+            <div id="img1" data-group="image" class="flexy cell2 img pic1 textBlock">
+                
+                
+            </div>
 
-                <div id="cell131" class="cell3 flexy">
-                    <!-- <span class="cell3Text"> -->
+            <div id="cell131" class="cell3 flexy">
+                <h3 data-group="sub" id="h33" class="sub textBlock">Families welcome.<br></h3>
+                <p data-group="para" id="p3" class="para textBlock">This term is mand asist amet conse&nbsp; to display elit quarat mind set laundry to this.<br>Your family on these long sapeos days with the conquest of evolution to tam and all that ipsum.</p>
+                <p data-group="subSub" id="h42" class="subSub textBlock">Book on-line today.<br></p>
+                <!-- </span> -->
+                <!-- <button>READ MORE</button> -->
+            </div>
 
-                    <h3 data-group="sub" id="h33" class="sub textBlock">Families welcome.</h3>
-                    <p data-group="para" id="p3" class="para textBlock">
-                        Lorem ipsum dolor sit amet conse adipisicing elit. Quaerat dolore laudant tempora sint labore sapeos dolor nulla conseq est soluta totam. Lorem ipsum dolor sit amet.
-                    </p>
-                    <p data-group="subSub" id="h42" class="subSub textBlock">Book on-line now.</p>
-                    <!-- </span> -->
-                    <!-- <button>READ MORE</button> -->
-                </div>
+            <div>
+                <div class="cell4">
 
-                <div>
-                    <div class="cell4">
-
-                        <!-- <div class="cell4-header">
-                                <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h4>
-                        </div> -->
-                        <div id="cell41" class="cell4-cell1 flexy">
-                            <h3 data-group="sub" id="h34" class="sub textBlock">The Galleon</h3>
-                            <p data-group="para" id="p4" class="para textBlock">The captain awaits you.</p>
-                            <div id="img2" data-group="image" class="flexy img pic2 textBlock">
-                                <label for="getPic2" class="imgSelector icon camera"></label>
-                                <input id="getPic2" type="file" style="display:none" onchange="changePic(this,'pic2')">
-                            </div>
-                            <p data-group="para" id="p5" class="para textBlock">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure debitis neque maxime.</p>
-                            <button>BOOK NOW</button>
+                    <!-- <div class="cell4-header">
+                            <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h4>
+                    </div> -->
+                    <div id="cell41" class="cell4-cell1 flexy">
+                        <h3 data-group="sub" id="h34" class="sub textBlock">The Gallion<br></h3>
+                        <p data-group="para" id="p4" class="para textBlock">The captain awaits you.</p>
+                        <div id="img2" data-group="image" class="flexy img pic2 textBlock">
+                            
+                            
                         </div>
-                        <div id="cell42" class="cell4-cell1 flexy">
-                            <h3 data-group="sub" id="h35" class="sub textBlock">Angry Hour</h3>
-                            <p data-group="para" id="p6" class="para textBlock">Lorem ipsum dolor sit amet.</p>
-                            <div id="img3" data-group="image" class="flexy img pic3 textBlock">
-                                <label for="getPic3" class="imgSelector icon camera"></label>
-                                <input id="getPic3" type="file" style="display:none" onchange="changePic(this,'pic3')">
-                            </div>
-                            <p data-group="para" id="p7" class="para textBlock">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Incidunt suscipit ipsa placeat.</p>
-                            <button>BOOK NOW</button>
+                        <p data-group="para" id="p5" class="para textBlock">Shorerel morem sonar duet the amet, consectetur adipisicing elit. Iure prebitis neque maxime.</p>
+                        <button>MORE</button>
+                    </div>
+                    <div id="cell42" class="cell4-cell1 flexy">
+                        <h3 data-group="sub" id="h35" class="sub textBlock">Angry Hour<br></h3>
+                        <p data-group="para" id="p6" class="para textBlock">Dolor sit&nbsp; clement fortuant emet minstal medi.<br></p>
+                        <div id="img3" data-group="image" class="flexy img pic3 textBlock">
+                            
+                            
                         </div>
+                        <p data-group="para" id="p7" class="para textBlock">Metfore emotum major domet, armer consectetur galeant elite. Mast suscipit ipsa placeat.</p>
+                        <button>MORE</button>
                     </div>
-                    <div id="cell43" class="cell4-footer">
-                        <p data-group="para" id="p8" class="para textBlock">
-                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. nulla consequatur est. Laboriosam ea veritatis dolorum excepturi. Similique
-                        </p>
-
-                    </div>
+                </div>
+                <div id="cell43" class="cell4-footer">
+                    <p data-group="para" id="p8" class="para textBlock">Lorem ipsum dolor, sit amet consectetur adipisicing elit. nulla consequatur est. Laboriosam ea veritatis dolorum excepturi. Similique.</p>
                 </div>
             </div>
         </div>
-
         <div class="footnote">
-            <p data-group="subSub" id="h44" class="footnote textBlock">WHAT ARE YOU WAITING FOR?</p>
+            <p data-group="subSub" id="h44" class="subSub footnote textBlock">WHAT ARE YOU WAITING FOR?</p>
             <p data-group="para" id="p9" class="para textBlock">Make your reservation today.</p>
         </div>
+    
+<footer>
 
-        <footer>
-            <div class="footerSocial">
-                <div class="fb"></div>
-                <div class="tw"></div>
-                <div class="ins"></div>
-            </div>
-            <ul>
-                <li>About</li>
-                <li>Services</li>
-                <li>Contact</li>
-            </ul>
-            <div class="copyright">
-                &#169 Key Escape Rooms 2021
-            </div>
-        </footer>
-        <script src="pages/all_data.js"></script>
-        <script src="js/main.js"></script>
-        <script src="js/default.js"></script>
-        <script src="js/all_data.js"></script>
-        <script>
-            let headers = document.getElementsByTagName("h1");
-            let subHeaders = document.getElementsByTagName("h3");
-            let paras = document.getElementsByTagName("p");
-            let emph = document.getElementsByTagName("em");
-            let dropDowns = document.getElementsByClassName("dropDown");
-            loadText();
-
-            function loadText() {
-                allData[0].map(function(e, i, a) {
-                    headers[i].innerText = e;
-                })
-                allData[1].map(function(e, i, a) {
-                    subHeaders[i].innerText = e;
-                })
-                allData[2].map(function(e, i, a) {
-                    paras[i].innerText = e;
-                })
-                allData[3].map(function(e, i, a) {
-                    emph[i].innerText = e;
-                })
-            }
-
-            function toggleUp() {
-                $(this).slideUp();
-                $(this)[0].nextElementSibling.innerText = "Read more...";
-                saveData();
-            }
-
-            function learnMore(x) {
-                let prev = x.previousElementSibling;
-                $(prev).slideToggle();
-                x.innerText = prev.offsetHeight < 3 ? x.dataset['label2'] : x.dataset['label1'];
-                prev.offsetHeight < 3 ? prev.focus() : {};
-            }
-        </script>
-    </body>
-</htm>
+        <div class="footerSocial">
+            <div class="fb"></div>
+            <div class="tw"></div>
+            <div class="ins"></div>
+        </div>
+        <ul>
+            <li>About</li>
+            <li>Services</li>
+            <li>Contact</li>
+        </ul>
+        <div class="copyright">
+            © Key Escape Rooms 2021
+        </div>
+    
+</footer></body>
+</html>

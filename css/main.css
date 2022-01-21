@@ -436,3 +436,34 @@ footer ul {
     text-align: center;
     display: block;
 }
+
+.desk {
+    -display: flex;
+}
+
+.mob {
+    display: none;
+}
+
+@media screen and (max-width:530px) {
+    .desk {
+        display: none;
+    }
+    .mob {
+        display: block;
+    }
+    #wrapper {
+        border: 1px solid red;
+    }
+    .container {}
+    #cell1 {
+        display: none;
+    }
+    #img1 {
+        margin: 0px auto;
+        width: 98%;
+    }
+    .cell2 {
+        display: block;
+    }
+}

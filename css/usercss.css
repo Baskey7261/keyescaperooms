@@ -50,20 +50,25 @@
     color: rgb(191, 158, 128);
 }
 
+#mh31{
+    font-family: Hind-Light;
+    color: rgb(191, 158, 128);
+}
+
 #h33{
+    margin: 0.5em 0px 0px;
     font-family: Hind-Light;
     color: rgb(191, 158, 128);
 }
 
 #h34{
-    margin: 0.5em 0px 0px;
+    margin: 0px 0px 0.2em;
     font-family: Hind-Light;
     color: rgb(191, 158, 128);
 }
 
 #h35{
-    margin: 0.5em 0px 0px;
-    font-family: Hind-Light;
+    margin: 0px 0px 0.2em;
     color: rgb(191, 158, 128);
 }
 
@@ -72,6 +77,10 @@
     font-family: BLKCHCRY;
     font-size: 2em;
     letter-spacing: 0.009em;
+}
+
+#mainTitleMob{
+    font-family: BLKCHCRY;
 }
 
 #h41{
@@ -92,7 +101,16 @@
 #p2{
     color: rgb(230, 230, 230);
     font-size: 1em;
-    line-height: 1.3em;
+    line-height: 1.35em;
+    font-family: Hind-Light;
+    font-weight: 100;
+    font-style: normal;
+}
+
+#mp1{
+    color: rgb(230, 230, 230);
+    font-size: 1em;
+    line-height: 1.35em;
     font-family: Hind-Light;
     font-weight: 100;
     font-style: normal;
@@ -101,22 +119,24 @@
 #p3{
     color: rgb(230, 230, 230);
     font-size: 1em;
+    font-family: Hind-Light;
+    line-height: 1.35em;
+}
+
+#h42{
+    color: rgb(230, 230, 230);
+    font-size: 1em;
     line-height: 1.3em;
     font-family: Hind-Light;
     font-weight: 100;
     font-style: normal;
 }
 
-#h42{
-    color: rgb(204, 113, 227);
-    font-size: 1em;
-    font-family: Hind-Light;
-}
-
 #p4{
     color: rgb(230, 230, 230);
     font-size: 1em;
-    line-height: 1.3em;
+    line-height: 1.35em;
+    margin: 0px 0px 0.2em;
     font-family: Hind-Light;
     font-weight: 100;
     font-style: normal;
@@ -125,8 +145,7 @@
 #p5{
     color: rgb(230, 230, 230);
     font-size: 1em;
-    line-height: 1.3em;
-    margin: 0.5em 0px 0px;
+    line-height: 1.35em;
     font-family: Hind-Light;
     font-weight: 100;
     font-style: normal;
@@ -135,42 +154,39 @@
 #p6{
     color: rgb(230, 230, 230);
     font-size: 1em;
-    line-height: 1.3em;
+    line-height: 1.35em;
     font-family: Hind-Light;
     font-weight: 100;
     font-style: normal;
+    margin: 0px 0px 0.2em;
 }
 
 #p7{
     color: rgb(230, 230, 230);
     font-size: 1em;
-    line-height: 1.3em;
+    line-height: 1.35em;
     font-family: Hind-Light;
     font-weight: 100;
     font-style: normal;
-    margin: 0.5em 0px 0px;
 }
 
 #p8{
+    font-family: Hind-Light;
     color: rgb(230, 230, 230);
     font-size: 1em;
-    line-height: 1.3em;
-    font-family: Hind-Light;
-    font-weight: 100;
-    font-style: normal;
+    line-height: 1.35em;
 }
 
 #h44{
-    font-family: Hind-Light;
-    color: rgb(204, 113, 227);
-}
-
-#p9{
     color: rgb(230, 230, 230);
     font-size: 1em;
     line-height: 1.3em;
     font-family: Hind-Light;
     font-weight: 100;
     font-style: normal;
+}
+
+#p9{
+    line-height: 1.35em;
 }
 
