@@ -124,6 +124,7 @@ nav div {
     color: rgb(201, 199, 199);
     font-size: 0.7rem;
     font-weight: 100;
+    cursor: pointer;
 }
 
 nav div:nth-child(1) {
@@ -234,7 +235,7 @@ header {
     min-height: 400px;
     width: 100%;
     max-width: 900px;
-    margin: 140px auto;
+    margin: 120px auto 0px auto;
     row-gap: 35px;
     column-gap: 20px;
 }
