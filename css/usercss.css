@@ -70,17 +70,18 @@
 #h35{
     margin: 0px 0px 0.2em;
     color: rgb(191, 158, 128);
+    font-family: Hind-Light;
 }
 
 #mainTitle{
     color: rgb(192, 192, 192);
-    font-family: BLKCHCRY;
-    font-size: 2em;
+    font-family: Friday13v12;
+    font-size: 3em;
     letter-spacing: 0.009em;
 }
 
 #mainTitleMob{
-    font-family: BLKCHCRY;
+    font-family: Friday13v12;
 }
 
 #h41{
@@ -188,5 +189,6 @@
 
 #p9{
     line-height: 1.35em;
+    font-family: Hind-Light;
 }
 
