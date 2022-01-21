@@ -6,6 +6,10 @@
     display: block;
 }
 
+header {
+    height: 100vh;
+}
+
 #wrapper {}
 
 #mainTitleMob {
