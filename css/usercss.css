@@ -5,15 +5,16 @@
 
 #cell1{
     border-radius: 3px;
+    padding: 20px;
 }
 
 #img1{
     background-image: url("../assets/img/aa93234d940dcc22899e46b32b86cc2f_thumb_fb.jpg");
-    border-radius: 3px;
 }
 
 #cell131{
     border-radius: 3px;
+    padding: 10px;
 }
 
 #cell41{
@@ -21,8 +22,7 @@
 }
 
 #img2{
-    background-image: url("../assets/img/24c976c415c3b90f4fd40249dfa2dddf.jpg");
-    border-radius: 3px;
+    background-image: url("../assets/img/maxresdsasaaefault.jpg");
 }
 
 #cell42{
@@ -30,16 +30,16 @@
 }
 
 #img3{
-    background-image: url("../assets/img/HT6yyUaSWLs.jpg");
-    border-radius: 3px;
+    background-image: url("../assets/img/Escape-Room-Games-Are-Good-Stress-Relievers.jpg");
 }
 
 #subTitle{
     text-align: center;
-    color: rgb(191, 158, 128);
+    color: rgb(230, 230, 230);
     font-size: 1.1em;
-    margin: 0.5em 0px 0px;
+    margin: 0em 0px 1em;
     font-family: Hind-Light;
+    padding: 0px;
 }
 
 #h32{
@@ -48,33 +48,40 @@
     letter-spacing: 0.0001em;
     font-family: Hind-Light;
     color: rgb(191, 158, 128);
+    padding: 0px;
+    margin: 0px;
 }
 
 #mh31{
     font-family: Hind-Light;
     color: rgb(191, 158, 128);
+    padding: 0px;
+    margin: 0px;
 }
 
 #h33{
-    margin: 0.5em 0px 0px;
+    margin: 0px;
     font-family: Hind-Light;
     color: rgb(191, 158, 128);
+    padding: 0px;
 }
 
 #h34{
-    margin: 0px 0px 0.2em;
+    margin: 0px;
     font-family: Hind-Light;
     color: rgb(191, 158, 128);
+    padding: 0px;
 }
 
 #h35{
-    margin: 0px 0px 0.2em;
+    margin: 0px;
     color: rgb(191, 158, 128);
     font-family: Hind-Light;
+    padding: 0px;
 }
 
 #mainTitle{
-    color: rgb(178, 178, 178);
+    color: rgb(191, 158, 128);
     font-family: HACKED;
     font-size: 3em;
     letter-spacing: 0.009em;
@@ -86,9 +93,11 @@
 }
 
 #h41{
-    color: rgb(204, 113, 227);
+    color: rgb(154, 154, 154);
     font-size: 1em;
     font-family: Hind-Light;
+    margin: 0em 0px 1em;
+    padding: 0px;
 }
 
 #p1{
@@ -107,6 +116,8 @@
     font-family: Hind-Light;
     font-weight: 100;
     font-style: normal;
+    padding: 0px;
+    margin: 0em 0px 0.5em;
 }
 
 #mp1{
@@ -116,6 +127,8 @@
     font-family: Hind-Light;
     font-weight: 100;
     font-style: normal;
+    padding: 0px;
+    margin: 0px;
 }
 
 #p3{
@@ -123,25 +136,29 @@
     font-size: 1em;
     font-family: Hind-Light;
     line-height: 1.35em;
+    padding: 0px;
+    margin: 0px;
 }
 
 #h42{
-    color: rgb(230, 230, 230);
+    color: rgb(154, 154, 154);
     font-size: 1em;
     line-height: 1.3em;
     font-family: Hind-Light;
     font-weight: 100;
     font-style: normal;
+    margin: 1em 0px 0px;
 }
 
 #p4{
     color: rgb(230, 230, 230);
     font-size: 1em;
     line-height: 1.35em;
-    margin: 0px 0px 0.2em;
+    margin: 0px;
     font-family: Hind-Light;
     font-weight: 100;
     font-style: normal;
+    padding: 0px;
 }
 
 #p5{
@@ -151,6 +168,8 @@
     font-family: Hind-Light;
     font-weight: 100;
     font-style: normal;
+    padding: 0px;
+    margin: 0px;
 }
 
 #p6{
@@ -160,7 +179,8 @@
     font-family: Hind-Light;
     font-weight: 100;
     font-style: normal;
-    margin: 0px 0px 0.2em;
+    margin: 0px;
+    padding: 0px;
 }
 
 #p7{
@@ -170,6 +190,8 @@
     font-family: Hind-Light;
     font-weight: 100;
     font-style: normal;
+    padding: 0px;
+    margin: 0px;
 }
 
 #p8{
@@ -177,19 +199,24 @@
     color: rgb(230, 230, 230);
     font-size: 1em;
     line-height: 1.35em;
+    padding: 0px;
+    margin: 0px;
 }
 
 #h44{
-    color: rgb(230, 230, 230);
+    color: rgb(154, 154, 154);
     font-size: 1em;
     line-height: 1.3em;
     font-family: Hind-Light;
     font-weight: 100;
     font-style: normal;
+    margin: 0em 0px 0.5em;
 }
 
 #p9{
     line-height: 1.35em;
     font-family: Hind-Light;
+    padding: 0px;
+    margin: 0px;
 }
 
