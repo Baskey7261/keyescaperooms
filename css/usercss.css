@@ -1,222 +1,214 @@
+#bodyCover{
+    background-image: url("../assets/img/sequence-25.jpg");
+    border-radius: 4px;
+}
+
 #head{
-    color: rgb(107, 231, 125);
-    border-radius: 3px;
+    border-radius: 4px;
 }
 
 #cell1{
-    border-radius: 3px;
-    padding: 20px;
+    border-radius: 4px;
 }
 
 #img1{
     background-image: url("../assets/img/aa93234d940dcc22899e46b32b86cc2f_thumb_fb.jpg");
+    border-radius: 4px;
 }
 
 #cell131{
-    border-radius: 3px;
-    padding: 10px;
+    padding: 30px;
+    border-radius: 4px;
 }
 
 #cell41{
-    border-radius: 3px;
+    border-radius: 4px;
 }
 
 #img2{
-    background-image: url("../assets/img/maxresdsasaaefault.jpg");
+    background-image: url("../assets/img/24c976c415c3b90f4fd40249dfa2dddf.jpg");
+    border-radius: 4px;
 }
 
 #cell42{
-    border-radius: 3px;
+    border-radius: 4px;
 }
 
 #img3{
-    background-image: url("../assets/img/Escape-Room-Games-Are-Good-Stress-Relievers.jpg");
+    background-image: url("../assets/img/15002758651_17_july_2017_i50982_silach_vyacheslav_maksuta_snya.jpg");
+    border-radius: 4px;
 }
 
 #subTitle{
     text-align: center;
-    color: rgb(230, 230, 230);
-    font-size: 1.1em;
-    margin: 0em 0px 1em;
-    font-family: Hind-Light;
-    padding: 0px;
+    font-size: 1.25em;
+    font-family: Questrial-Regular;
+    margin: 0.3em 0px 0.5em;
 }
 
 #h32{
-    font-size: 1.3em;
-    line-height: 1.25em;
-    letter-spacing: 0.0001em;
-    font-family: Hind-Light;
-    color: rgb(191, 158, 128);
-    padding: 0px;
-    margin: 0px;
+    line-height: 1.2em;
+    color: rgb(202, 176, 117);
+    font-family: Questrial-Regular;
+    margin: 0.3em 0px 0.5em;
 }
 
 #mh31{
-    font-family: Hind-Light;
-    color: rgb(191, 158, 128);
-    padding: 0px;
-    margin: 0px;
+    line-height: 1.2em;
+    color: rgb(202, 176, 117);
+    font-family: Questrial-Regular;
+    margin: 0.5em 0px 1em;
+    text-align: center;
 }
 
 #h33{
-    margin: 0px;
-    font-family: Hind-Light;
-    color: rgb(191, 158, 128);
-    padding: 0px;
+    line-height: 1.2em;
+    color: rgb(202, 176, 117);
+    font-family: Questrial-Regular;
+    margin: 0.3em 0px 0.5em;
 }
 
 #h34{
+    line-height: 1.2em;
+    color: rgb(202, 176, 117);
+    font-family: Questrial-Regular;
     margin: 0px;
-    font-family: Hind-Light;
-    color: rgb(191, 158, 128);
-    padding: 0px;
 }
 
 #h35{
+    line-height: 1.2em;
+    color: rgb(202, 176, 117);
+    font-family: Questrial-Regular;
     margin: 0px;
-    color: rgb(191, 158, 128);
-    font-family: Hind-Light;
-    padding: 0px;
 }
 
 #mainTitle{
-    color: rgb(191, 158, 128);
     font-family: HACKED;
     font-size: 3em;
-    letter-spacing: 0.009em;
+    color: rgb(202, 176, 117);
+    line-height: 1em;
 }
 
 #mainTitleMob{
+    color: rgb(202, 176, 117);
     font-family: HACKED;
-    color: rgb(178, 178, 178);
+    line-height: 1em;
 }
 
 #h41{
-    color: rgb(154, 154, 154);
+    font-family: Questrial-Regular;
     font-size: 1em;
-    font-family: Hind-Light;
-    margin: 0em 0px 1em;
-    padding: 0px;
+    color: rgb(192, 192, 192);
 }
 
 #p1{
-    color: rgb(192, 192, 192);
+    font-family: Questrial-Regular;
     font-size: 0.9em;
-    line-height: 1.15em;
-    font-family: Hind-Light;
-    font-weight: 100;
-    font-style: italic;
+    line-height: 1.3em;
+    font-style: oblique;
+    color: rgb(170, 170, 170);
 }
 
 #p2{
-    color: rgb(230, 230, 230);
+    font-family: Questrial-Regular;
+    line-height: 1.3em;
+    letter-spacing: 0.05em;
     font-size: 1em;
-    line-height: 1.35em;
-    font-family: Hind-Light;
-    font-weight: 100;
-    font-style: normal;
+    color: rgb(226, 226, 226);
     padding: 0px;
-    margin: 0em 0px 0.5em;
+    margin: 0px 0px 0.3em;
 }
 
 #mp1{
-    color: rgb(230, 230, 230);
+    font-family: Questrial-Regular;
+    line-height: 1.3em;
+    letter-spacing: 0.05em;
     font-size: 1em;
-    line-height: 1.35em;
-    font-family: Hind-Light;
-    font-weight: 100;
-    font-style: normal;
+    color: rgb(226, 226, 226);
     padding: 0px;
-    margin: 0px;
+    margin: 0.5em 0px 1.7em;
 }
 
 #p3{
-    color: rgb(230, 230, 230);
+    font-family: Questrial-Regular;
+    line-height: 1.3em;
+    letter-spacing: 0.05em;
     font-size: 1em;
-    font-family: Hind-Light;
-    line-height: 1.35em;
+    color: rgb(226, 226, 226);
     padding: 0px;
-    margin: 0px;
+    margin: 0px 0px 0.3em;
 }
 
 #h42{
-    color: rgb(154, 154, 154);
+    font-family: Questrial-Regular;
     font-size: 1em;
-    line-height: 1.3em;
-    font-family: Hind-Light;
-    font-weight: 100;
-    font-style: normal;
-    margin: 1em 0px 0px;
+    color: rgb(192, 192, 192);
 }
 
 #p4{
-    color: rgb(230, 230, 230);
+    font-family: Questrial-Regular;
+    line-height: 1.3em;
+    letter-spacing: 0.05em;
     font-size: 1em;
-    line-height: 1.35em;
-    margin: 0px;
-    font-family: Hind-Light;
-    font-weight: 100;
-    font-style: normal;
+    color: rgb(226, 226, 226);
     padding: 0px;
+    margin: 0px 0px 0.3em;
 }
 
 #p5{
-    color: rgb(230, 230, 230);
+    font-family: Questrial-Regular;
+    line-height: 1.3em;
+    letter-spacing: 0.05em;
     font-size: 1em;
-    line-height: 1.35em;
-    font-family: Hind-Light;
-    font-weight: 100;
-    font-style: normal;
+    color: rgb(226, 226, 226);
     padding: 0px;
-    margin: 0px;
+    margin: 0.3em 0px;
 }
 
 #p6{
-    color: rgb(230, 230, 230);
+    font-family: Questrial-Regular;
+    line-height: 1.3em;
+    letter-spacing: 0.05em;
     font-size: 1em;
-    line-height: 1.35em;
-    font-family: Hind-Light;
-    font-weight: 100;
-    font-style: normal;
-    margin: 0px;
+    color: rgb(226, 226, 226);
     padding: 0px;
+    margin: 0px 0px 0.3em;
 }
 
 #p7{
-    color: rgb(230, 230, 230);
+    font-family: Questrial-Regular;
+    line-height: 1.3em;
+    letter-spacing: 0.05em;
     font-size: 1em;
-    line-height: 1.35em;
-    font-family: Hind-Light;
-    font-weight: 100;
-    font-style: normal;
+    color: rgb(226, 226, 226);
     padding: 0px;
-    margin: 0px;
+    margin: 0.3em 0px;
 }
 
 #p8{
-    font-family: Hind-Light;
-    color: rgb(230, 230, 230);
+    font-family: Questrial-Regular;
+    line-height: 1.3em;
+    letter-spacing: 0.05em;
     font-size: 1em;
-    line-height: 1.35em;
+    color: rgb(226, 226, 226);
     padding: 0px;
-    margin: 0px;
+    margin: 0px 0px 0.3em;
 }
 
 #h44{
-    color: rgb(154, 154, 154);
+    font-family: Questrial-Regular;
     font-size: 1em;
-    line-height: 1.3em;
-    font-family: Hind-Light;
-    font-weight: 100;
-    font-style: normal;
-    margin: 0em 0px 0.5em;
+    color: rgb(202, 176, 117);
+    margin: 0.3em 0px 0.5em;
 }
 
 #p9{
-    line-height: 1.35em;
-    font-family: Hind-Light;
+    font-family: Questrial-Regular;
+    line-height: 1.3em;
+    letter-spacing: 0.05em;
+    font-size: 1em;
+    color: rgb(226, 226, 226);
     padding: 0px;
-    margin: 0px;
+    margin: 0px 0px 0.3em;
 }
 
