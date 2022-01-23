@@ -26,6 +26,7 @@
 
 #img2{
     background-image: url("../assets/img/d01e6cb3c79fbec7b1ecef3cb235d7da.jpg");
+    border-radius: 4px;
 }
 
 #cell42{
@@ -42,18 +43,19 @@
     font-size: 1.25em;
     font-family: Questrial-Regular;
     margin: 0.3em 0px 0.5em;
+    color: rgb(239, 244, 248);
 }
 
 #h32{
     line-height: 1.2em;
-    color: rgb(202, 176, 117);
+    color: rgb(126, 165, 192);
     font-family: Questrial-Regular;
     margin: 0.3em 0px 0.5em;
 }
 
 #mh31{
     line-height: 1.2em;
-    color: rgb(202, 176, 117);
+    color: rgb(126, 165, 192);
     font-family: Questrial-Regular;
     margin: 0.5em 0px 1em;
     text-align: center;
@@ -62,21 +64,21 @@
 
 #h33{
     line-height: 1.2em;
-    color: rgb(202, 176, 117);
+    color: rgb(126, 165, 192);
     font-family: Questrial-Regular;
     margin: 0.3em 0px 0.5em;
 }
 
 #h34{
     line-height: 1.2em;
-    color: rgb(202, 176, 117);
+    color: rgb(126, 165, 192);
     font-family: Questrial-Regular;
     margin: 0px;
 }
 
 #h35{
     line-height: 1.2em;
-    color: rgb(202, 176, 117);
+    color: rgb(126, 165, 192);
     font-family: Questrial-Regular;
     margin: 0px;
 }
@@ -97,7 +99,7 @@
 #h41{
     font-family: Questrial-Regular;
     font-size: 1em;
-    color: rgb(192, 130, 200);
+    color: rgb(200, 165, 91);
 }
 
 #p1{
@@ -105,7 +107,7 @@
     font-size: 0.9em;
     line-height: 1.3em;
     font-style: oblique;
-    color: rgb(170, 170, 170);
+    color: rgb(228, 228, 228);
 }
 
 #p2{
@@ -113,7 +115,7 @@
     line-height: 1.3em;
     letter-spacing: 0.05em;
     font-size: 1em;
-    color: rgb(226, 226, 226);
+    color: rgb(228, 228, 228);
     padding: 0px;
     margin: 0px 0px 0.3em;
 }
@@ -123,7 +125,7 @@
     line-height: 1.3em;
     letter-spacing: 0.05em;
     font-size: 1em;
-    color: rgb(226, 226, 226);
+    color: rgb(228, 228, 228);
     padding: 0px 20px;
     margin: 0.5em 0px 1.7em;
 }
@@ -133,7 +135,7 @@
     line-height: 1.3em;
     letter-spacing: 0.05em;
     font-size: 1em;
-    color: rgb(226, 226, 226);
+    color: rgb(228, 228, 228);
     padding: 0px;
     margin: 0px 0px 0.3em;
 }
@@ -141,7 +143,7 @@
 #h42{
     font-family: Questrial-Regular;
     font-size: 1em;
-    color: rgb(192, 130, 200);
+    color: rgb(200, 165, 91);
 }
 
 #p4{
@@ -149,7 +151,7 @@
     line-height: 1.3em;
     letter-spacing: 0.05em;
     font-size: 1em;
-    color: rgb(226, 226, 226);
+    color: rgb(228, 228, 228);
     padding: 0px;
     margin: 0px 0px 0.3em;
 }
@@ -159,7 +161,7 @@
     line-height: 1.3em;
     letter-spacing: 0.05em;
     font-size: 1em;
-    color: rgb(226, 226, 226);
+    color: rgb(228, 228, 228);
     padding: 0px;
     margin: 0.3em 0px;
 }
@@ -169,7 +171,7 @@
     line-height: 1.3em;
     letter-spacing: 0.05em;
     font-size: 1em;
-    color: rgb(226, 226, 226);
+    color: rgb(228, 228, 228);
     padding: 0px;
     margin: 0px 0px 0.3em;
 }
@@ -179,7 +181,7 @@
     line-height: 1.3em;
     letter-spacing: 0.05em;
     font-size: 1em;
-    color: rgb(226, 226, 226);
+    color: rgb(228, 228, 228);
     padding: 0px;
     margin: 0.3em 0px;
 }
@@ -189,7 +191,7 @@
     line-height: 1.3em;
     letter-spacing: 0.05em;
     font-size: 1em;
-    color: rgb(226, 226, 226);
+    color: rgb(228, 228, 228);
     padding: 0px;
     margin: 0px 0px 0.3em;
 }
@@ -197,7 +199,7 @@
 #h44{
     font-family: Questrial-Regular;
     font-size: 1em;
-    color: rgb(192, 130, 200);
+    color: rgb(200, 165, 91);
     margin: 0.3em 0px 0.5em;
 }
 
@@ -206,7 +208,7 @@
     line-height: 1.3em;
     letter-spacing: 0.05em;
     font-size: 1em;
-    color: rgb(226, 226, 226);
+    color: rgb(228, 228, 228);
     padding: 0px;
     margin: 0px 0px 0.3em;
 }
