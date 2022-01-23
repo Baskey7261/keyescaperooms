@@ -90,12 +90,13 @@ h4 {
 
 button {
     width: 150px;
-    font-size: 1rem;
+    font-size: 1.25rem;
+    font-weight: 300;
     margin: 35px auto;
-    padding: 12px;
+    padding: 4px;
     background: transparent;
     outline: none;
-    border: 1px solid rgb(168, 167, 167);
+    border: 2px solid rgb(168, 167, 167);
     border-radius: 5px;
     color: rgb(219, 193, 109);
     cursor: pointer;
