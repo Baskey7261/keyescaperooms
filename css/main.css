@@ -392,6 +392,13 @@ header {
     display: block;
 }
 
+.readMore {}
+
+.dropDown {
+    display: none;
+    width: 100%;
+}
+
 .footnote {
     margin: 0px auto;
     max-width: 50ch;
