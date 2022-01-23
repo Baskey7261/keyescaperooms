@@ -95,7 +95,7 @@ h6 {
     line-height: 1.5rem;
     letter-spacing: 0.052em;
     margin: 0px;
-    color: rgb(200, 165, 91);
+    color: rgb(234, 231, 85);
     cursor: pointer;
 }
 
@@ -109,7 +109,7 @@ button {
     outline: none;
     border: 2px solid rgb(168, 167, 167);
     border-radius: 5px;
-    color: rgb(219, 193, 109);
+    color: rgb(234, 231, 85);
     cursor: pointer;
 }
 
@@ -143,6 +143,7 @@ header {
     width: 98%;
     height: 300px;
     background: linear-gradient( to bottom, rgba(104, 7, 83, 0.452), rgba(24, 3, 17, 0.377));
+    background: linear-gradient( to bottom, rgba(0, 0, 0, 0.452), rgba(0, 0, 0, 0.377));
     margin-bottom: 10px;
     border-radius: 5px;
     margin: 0px auto;
@@ -205,6 +206,10 @@ header {
     color: rgb(187, 187, 186);
     cursor: pointer;
     font-weight: 200;
+}
+
+.socLinks div:hover {
+    color: #fff;
 }
 
 .fb::before {
