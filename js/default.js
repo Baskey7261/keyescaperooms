@@ -27,3 +27,14 @@ function learnMore(x) {
     x.innerText = prev.offsetHeight < 3 ? x.dataset['label2'] : x.dataset['label1'];
     prev.offsetHeight < 3 ? prev.focus() : {};
 }
+
+function bookingForm(x) {
+    $("#bookingForm").slideDown(function() {
+
+    })
+}
+
+function closeBookingForm() {
+    $("#bookingForm").slideUp();
+
+}

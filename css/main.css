@@ -224,6 +224,15 @@ header {
     content: "\ea92";
 }
 
+.cancel::before {
+    content: "\ea0d";
+    color: #555;
+    cursor: pointer;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+}
+
 .bodyTitle {
     text-align: center;
     width: 90%;
@@ -299,6 +308,7 @@ header {
 }
 
 .cell4 {
+    position: relative;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -350,6 +360,22 @@ header {
     max-width: 50ch;
     margin: 0px auto;
     padding: 20px 10px 20px 10px;
+}
+
+#bookingForm {
+    display: none;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    z-index: 20;
+}
+
+#closeBookingForm {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    z-index: 22;
 }
 
 .img {
