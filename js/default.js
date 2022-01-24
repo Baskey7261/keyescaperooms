@@ -29,8 +29,10 @@ function learnMore(x) {
 }
 
 function bookingForm(x) {
-    $("#bookingForm").slideDown(function() {
+    let ele = document.getElementById("bookingForm");
 
+    $("#bookingForm").slideDown(function() {
+        ele.scrollIntoView();
     })
 }
 
