@@ -143,7 +143,7 @@ header {
     width: 98%;
     height: 300px;
     background: linear-gradient( to bottom, rgba(104, 7, 83, 0.452), rgba(24, 3, 17, 0.377));
-    background: linear-gradient( to bottom, rgba(0, 0, 0, 0.452), rgba(0, 0, 0, 0.377));
+    background: linear-gradient( to bottom, rgba(0, 0, 83, 0.452), rgba(24, 3, 17, 0.377));
     margin-bottom: 10px;
     border-radius: 5px;
     margin: 0px auto;
@@ -392,11 +392,8 @@ header {
     display: block;
 }
 
-.readMore {}
-
 .dropDown {
     display: none;
-    width: 100%;
 }
 
 .footnote {

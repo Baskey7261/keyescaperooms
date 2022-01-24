@@ -3,213 +3,209 @@
 }
 
 #head{
-    border-radius: 4px;
-}
+    }
 
 #cell1{
-    border-radius: 4px;
-}
+    }
 
 #img1{
     background-image: url("../assets/img/aa93234d940dcc22899e46b32b86cc2f_thumb_fb.jpg");
-    border-radius: 4px;
 }
 
 #cell131{
-    padding: 30px;
-    border-radius: 4px;
-}
+    }
 
 #cell41{
-    border-radius: 4px;
-}
+    }
 
 #img2{
     background-image: url("../assets/img/d01e6cb3c79fbec7b1ecef3cb235d7da.jpg");
-    border-radius: 4px;
 }
 
 #cell42{
-    border-radius: 4px;
-}
+    }
 
 #img3{
     background-image: url("../assets/img/15002758651_17_july_2017_i50982_silach_vyacheslav_maksuta_snya.jpg");
-    border-radius: 4px;
 }
 
 #subTitle{
     text-align: center;
-    font-size: 1.25em;
-    font-family: Questrial-Regular;
-    margin: 0.3em 0px 0.5em;
-    color: rgb(228, 228, 228);
+    font-family: Quicksand-Regular_0;
+    font-size: 1em;
+    line-height: 1.3em;
+    letter-spacing: 0.0001em;
+    margin: 10px 0px 0.3em;
+    padding: 0px 20px;
 }
 
 #h32{
-    line-height: 1.2em;
-    color: rgb(80, 182, 216);
-    font-family: Questrial-Regular;
-    margin: 0.3em 0px 0.5em;
+    color: rgb(97, 181, 199);
+    line-height: 1.1em;
+    text-align: left;
+    font-size: 1.5em;
 }
 
 #mh31{
-    line-height: 1.2em;
-    color: rgb(80, 182, 216);
-    font-family: Questrial-Regular;
-    margin: 0.5em 0px 1em;
+    line-height: 1.1em;
     text-align: center;
-    padding: 0px 30px;
+    font-size: 2em;
+    letter-spacing: 0.0001em;
+    color: rgb(97, 181, 199);
 }
 
 #h33{
-    line-height: 1.2em;
-    color: rgb(80, 182, 216);
-    font-family: Questrial-Regular;
-    margin: 0.3em 0px 0.5em;
+    color: rgb(97, 181, 199);
+    line-height: 1.1em;
+    text-align: left;
+    font-size: 1.5em;
 }
 
 #h34{
-    line-height: 1.2em;
-    color: rgb(80, 182, 216);
-    font-family: Questrial-Regular;
+    color: rgb(97, 181, 199);
     margin: 0px;
+    padding: 0px;
+    line-height: 1.1em;
+    text-align: left;
+    font-size: 1.5em;
 }
 
 #h35{
-    line-height: 1.2em;
-    color: rgb(80, 182, 216);
-    font-family: Questrial-Regular;
+    color: rgb(97, 181, 199);
     margin: 0px;
+    padding: 0px;
+    line-height: 1.1em;
+    text-align: left;
+    font-size: 1.5em;
 }
 
 #mainTitle{
     font-family: HACKED;
+    color: rgb(210, 218, 78);
     font-size: 3em;
-    color: rgb(234, 231, 85);
     line-height: 1em;
 }
 
 #mainTitleMob{
-    color: rgb(234, 231, 85);
     font-family: HACKED;
+    font-size: 3em;
     line-height: 1em;
+    color: rgb(210, 218, 78);
 }
 
 #h41{
-    font-family: Questrial-Regular;
     font-size: 1em;
-    color: rgb(234, 231, 85);
+    color: rgb(210, 218, 78);
+    font-family: Quicksand-Regular_0;
 }
 
 #p1{
-    font-family: Questrial-Regular;
-    font-size: 0.9em;
-    line-height: 1.3em;
-    font-style: oblique;
-    color: rgb(228, 228, 228);
+    font-size: 0.8em;
+    letter-spacing: 0.0001em;
+    line-height: 1.1em;
+    font-family: Quicksand-Regular_0;
+    color: rgb(191, 191, 191);
 }
 
 #p2{
-    font-family: Questrial-Regular;
-    line-height: 1.3em;
-    letter-spacing: 0.05em;
+    font-family: Quicksand-Regular_0;
     font-size: 1em;
-    color: rgb(228, 228, 228);
-    padding: 0px;
-    margin: 0px 0px 0.3em;
+    line-height: 1.3em;
+    color: rgb(230, 230, 230);
 }
 
 #mp1{
-    font-family: Questrial-Regular;
-    line-height: 1.3em;
-    letter-spacing: 0.05em;
+    font-family: Quicksand-Regular_0;
     font-size: 1em;
-    color: rgb(228, 228, 228);
-    padding: 0px 20px;
-    margin: 0.5em 0px 1.7em;
+    line-height: 1.3em;
+    color: rgb(230, 230, 230);
 }
 
 #p3{
-    font-family: Questrial-Regular;
-    line-height: 1.3em;
-    letter-spacing: 0.05em;
+    font-family: Quicksand-Regular_0;
     font-size: 1em;
-    color: rgb(228, 228, 228);
-    padding: 0px;
-    margin: 0px 0px 0.3em;
+    line-height: 1.3em;
+    color: rgb(230, 230, 230);
 }
 
 #h42{
-    font-family: Questrial-Regular;
     font-size: 1em;
-    color: rgb(234, 231, 85);
+    color: rgb(210, 218, 78);
+    font-family: Quicksand-Regular_0;
 }
 
 #p4{
-    font-family: Questrial-Regular;
-    line-height: 1.3em;
-    letter-spacing: 0.05em;
+    font-family: Quicksand-Regular_0;
     font-size: 1em;
-    color: rgb(228, 228, 228);
+    line-height: 1.3em;
+    color: rgb(230, 230, 230);
+    margin: 0px;
     padding: 0px;
-    margin: 0px 0px 0.3em;
 }
 
 #p5{
-    font-family: Questrial-Regular;
-    line-height: 1.3em;
-    letter-spacing: 0.05em;
+    font-family: Quicksand-Regular_0;
     font-size: 1em;
-    color: rgb(228, 228, 228);
-    padding: 0px;
-    margin: 0.3em 0px;
+    line-height: 1.3em;
+    color: rgb(230, 230, 230);
+}
+
+#dd1{
+    font-family: Quicksand-Regular_0;
+    font-size: 1em;
+    line-height: 1.3em;
+    color: rgb(230, 230, 230);
+    display: none;
 }
 
 #p6{
-    font-family: Questrial-Regular;
-    line-height: 1.3em;
-    letter-spacing: 0.05em;
+    font-family: Quicksand-Regular_0;
     font-size: 1em;
-    color: rgb(228, 228, 228);
+    line-height: 1.3em;
+    color: rgb(230, 230, 230);
+    margin: 0px;
     padding: 0px;
-    margin: 0px 0px 0.3em;
 }
 
 #p7{
-    font-family: Questrial-Regular;
-    line-height: 1.3em;
-    letter-spacing: 0.05em;
+    font-family: Quicksand-Regular_0;
     font-size: 1em;
-    color: rgb(228, 228, 228);
-    padding: 0px;
-    margin: 0.3em 0px;
+    line-height: 1.3em;
+    color: rgb(230, 230, 230);
+}
+
+#dd2{
+    font-family: Quicksand-Regular_0;
+    font-size: 1em;
+    line-height: 1.3em;
+    color: rgb(230, 230, 230);
+    display: none;
+    overflow: hidden;
+    height: 291px;
+    padding-top: 0px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
 }
 
 #p8{
-    font-family: Questrial-Regular;
-    line-height: 1.3em;
-    letter-spacing: 0.05em;
     font-size: 1em;
-    color: rgb(228, 228, 228);
-    padding: 0px;
-    margin: 0px 0px 0.3em;
+    font-family: Quicksand-Regular_0;
+    line-height: 1.3em;
+    color: rgb(230, 230, 230);
 }
 
 #h44{
-    font-family: Questrial-Regular;
     font-size: 1em;
-    color: rgb(80, 182, 216);
-    margin: 0.3em 0px 0.5em;
+    color: rgb(97, 181, 199);
+    font-family: Quicksand-Regular_0;
+    margin: 0px 0px 0.3em;
 }
 
 #p9{
-    font-family: Questrial-Regular;
-    line-height: 1.3em;
-    letter-spacing: 0.05em;
+    font-family: Quicksand-Regular_0;
     font-size: 1em;
-    color: rgb(228, 228, 228);
-    padding: 0px;
-    margin: 0px 0px 0.3em;
+    line-height: 1.3em;
+    color: rgb(230, 230, 230);
 }
 
